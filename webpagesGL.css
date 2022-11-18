@@ -12,8 +12,8 @@ p {
 	color: #FFFFFF;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #FFFFFF ;
 }
 
 #id {
