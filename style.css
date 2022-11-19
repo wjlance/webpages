@@ -1,19 +1,25 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Will Lance
+ *UnityID: wjlance
+ *Date: 11/18/22
+ *Assignment: Independent Assignment 5
+ *Description: Create a website about yourself using HTML and CSS
  */
  
 p {
+	
     property: value;
+	
 }
 
-.class {
-    property: value;
+.table-border {
+    
+	border: 2px solid #e95419;
+	
 }
 
 #id {
+	
     property:value;
+	
 }
