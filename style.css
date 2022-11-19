@@ -6,20 +6,14 @@
  *Description: Create a website about yourself using HTML and CSS
  */
  
-p {
+#background-color {
 	
-    property: value;
+    background-color: #cbf0cb;
 	
 }
 
 .table-border {
     
 	border: 2px solid #e95419;
-	
-}
-
-#id {
-	
-    property:value;
 	
 }
